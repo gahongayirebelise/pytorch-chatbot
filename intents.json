@@ -11,19 +11,23 @@
         "Good day"
       ],
       "responses": [
-        "Hey :-)",
+        "Hello :-)",
         "Hello, thanks for visiting",
         "Hi there, what can I do for you?",
-        "Hi there, how can I help?"
+        "Hi there, how can I help?",
+        "Hi which service do you want"
       ]
     },
     {
       "tag": "goodbye",
-      "patterns": ["Bye", "See you later", "Goodbye"],
+      "patterns": ["Bye", "See you later", "Goodbye", "thanks for help"],
       "responses": [
         "See you later, thanks for visiting",
         "Have a nice day",
-        "Bye! Come back again soon."
+        "Bye! Come back again soon.",
+        "you're welcome",
+        "see you again",
+        "come back again"
       ]
     },
     {
@@ -32,53 +36,183 @@
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
     {
-      "tag": "items",
+      "tag": "RSSB clearance certificate",
       "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
+        "Where do you get RSSB clearance certificate?",
+        "What is the link to the RSSB clearance certificate?",
+        "How do you get RSSB clearance certificate?",
+        "How does RSSB clearance certificate works?",
+        "How can i get RSSB clearance certificate?",
+        "Who is the RSSB clearance certificate",
+        "What is the RSSB clearance certificate",
+        "Show me RSSB clearance certificate",
+        "How long did it take to have RSSB clearance certificate?",
+        "How do i apply for RSSB clearance certificate?",
+        "Who is in Charge of RSSB clearance certificate?",
+        "What kinds of items are there?"
       ],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
+        "Hello you've asked for some assistance in getting RSSB clearance certificate here is the response Link: https://www.rssb.rwhttps://www.rra.gov.rw/fileadmin/user_upload/tcc.html",
+        "You can use this link https://www.rssb.rwhttps://www.rra.gov.rw/fileadmin/user_upload/tcc.html for more information",
+        "Hopefully you're satisfied with the response!"
       ]
     },
     {
-      "tag": "payments",
+      "tag": "Pension simulator",
       "patterns": [
-        "Do you take credit cards?",
-        "Do you accept Mastercard?",
-        "Can I pay with Paypal?",
-        "Are you cash only?"
+        "Guide me to Pension simulator?",
+        "Where do you get Pension simulator?",
+        "What is the link to the Pension simulator?",
+        "How do you get Pension simulator?",
+        "How does Pension simulator works?",
+        "How can i get Pension simulator?",
+        "Who is the Pension simulator?",
+        "What is the Pension simulator?",
+        "Show me Pension simulator",
+        "How long did it take to have Pension simulator",
+        "How do i apply for Pension simulator?",
+        "Who is in Charge of Pension simulator?"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
+        "Hello you want to know more about pension simulator, here is the direction Link:https://www.rssb.rw/?pensionSimulator=true",
+        "You can use this link https://www.rssb.rw/?pensionSimulator=true for more information",
+        "Hopefully you're satisfied with the response!"
       ]
     },
     {
-      "tag": "delivery",
+      "tag": "Pay employee contributions",
       "patterns": [
-        "How long does delivery take?",
-        "How long does shipping take?",
-        "When do I get my delivery?"
+        "Guide me to Pay employee contributions?",
+        "Where do you get Pay employee contributions?",
+        "What is the link to the Pay employee contributions?",
+        "How do you get Pay employee contributions?",
+        "How does Pay employee contributions works?",
+        "How can i get Pay employee contributions?",
+        "Who is the Pay employee contributions?",
+        "What is the Pay employee contributions?",
+        "Show me Pay employee contributions",
+        "How long did it take to have Pay employee contributions",
+        "How do i apply for Pay employee contributions?",
+        "Who is in Charge of Pay employee contributions?"
       ],
       "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
+        "Hello you want to know  much on pay employee contributions, we can help you! Link:https://www.rssb.rwhttps://etax.rra.gov.rw/",
+        "You can use this link https://www.rssb.rwhttps://etax.rra.gov.rw/ for more information",
+        "Hopefully you're satisfied with the response!"
       ]
     },
     {
-      "tag": "funny",
+      "tag": "Check for your contributions",
       "patterns": [
-        "Tell me a joke!",
-        "Tell me something funny!",
-        "Do you know a joke?"
+        "Guide me to Check for your contributions?",
+        "Where do you get Check for your contributions?",
+        "What is the link to the Check for your contributions?",
+        "How do you get Check for your contributions?",
+        "How does Check for your contributions works?",
+        "How can i get Check for your contributions?",
+        "Who is the Check for your contributions?",
+        "What is the Check for your contributions?",
+        "Show me Check for your contributions",
+        "How long did it take to have Check for your contributions",
+        "How do i apply for Check for your contributions?",
+        "Who is in Charge of Check for your contributions?"
       ],
       "responses": [
-        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
-        "What did the buffalo say when his son left for college? Bison."
+        "Do you want to check for your contributions!, We can guide you there Link:https://www.rssb.rwhttps://www.imisanzu.rssb.rw/",
+        "You can use this link https://www.rssb.rwhttps://www.imisanzu.rssb.rw/ for more information",
+        "Hopefully you're satisfied with the response!"
       ]
-    }
-  ]
-}
+    },
+
+    {
+      "tag": "Apply for employee number",
+      "patterns": [
+        "Guide me to Apply for employee number?",
+        "Where do you get Apply for employee number?",
+        "What is the link to the Apply for employee number?",
+        "How do you get Apply for employee number?",
+        "How does Apply for employee number works?",
+        "How can i get Apply for employee number?",
+        "Who is the Apply for employee number?",
+        "What is the Apply for employee number?",
+        "Show me Apply for employee number",
+        "How long did it take to have Apply for employee number",
+        "How do i apply for Apply for employee number?",
+        "Who is in Charge of Apply for employee number?"
+      ],
+      "responses": [
+        "Hello, Do you want to Apply for employee number? Here is the direction Link:https://www.rssb.rwhttps://online.rssb.rw/index1152.php?menu=employer",
+        "You can use this link https://www.rssb.rwhttps://online.rssb.rw/index1152.php?menu=employer for more information",
+        "Hopefully you're satisfied with the response!"
+      ]
+    },
+
+    {
+      "tag": "Announcements",
+      "patterns": [
+        "Guide me to Announcements?",
+        "Where do you get Announcements?",
+        "What is the link to the Announcements?",
+        "How do you get Announcements?",
+        "How does Announcements works?",
+        "How can i get Announcements?",
+        "Show me Announcements",
+        "How long did it take to have Announcements",
+        "Who is in Charge of Announcements?"
+      ],
+      "responses": [
+        "Hello here is the way you can reach announcements use the Link:https://www.rssb.rw/publications#announcements",
+        "You can use this link https://www.rssb.rw/publications#announcements for more information",
+        "Hopefully you're satisfied with the response!"
+      ]
+    },
+
+    {
+      "tag": "Gallery",
+      "patterns": [
+        "Where do you get Gallery?",
+        "What is the link to the Gallery?",
+        "How do you get Gallery?",
+        "How does Gallery works?",
+        "Show me Gallery",
+        "How long did it take to have Gallery",
+        "Who is in Charge of Gallery?"
+      ],
+      "responses": [
+        "Hello here is the RSSB Gallery if you're interested use the Link:https://www.rssb.rwhttps://www.flickr.com/photos/185734547@N05/",
+        "You can use this link https://www.rssb.rwhttps://www.flickr.com/photos/185734547@N05/ for more information",
+        "Hopefully you're satisfied with the response!"
+      ]
+    },
+
+    {
+      "tag": "Useful Staff Contacts",
+      "patterns": [
+        "Guide me to Useful Staff Contacts?",
+        "Where do you get Useful Staff Contacts?",
+        "What is the link to the Useful Staff Contacts?",
+        "How do you get Useful Staff Contacts?",
+        "Show me Useful Staff Contacts"
+      ],
+      "responses": [
+        "Hello you want to reach out to RSSB staff contacts?, Here is the way. Link:https://www.rssb.rw/useful-staff-contacts",
+        "You can use this link https://www.rssb.rw/useful-staff-contacts for more information",
+        "Hopefully you're satisfied with the response!"
+      ]
+    },
+
+    {
+      "tag": "Tenders",
+      "patterns": [
+        "Guide me to Tenders?",
+        "Where do you get Tenders?",
+        "What is the link to the Tenders?",
+        "How do you get Tenders?",
+        "How can i get Tenders?",
+        "Show me Tenders"
+      ],
+      "responses": [
+        "Hello if you wish to check up on tenders here is the Link:https://www.rssb.rw/publications#tenders",
+        "You can use this link https://www.rssb.rw/publications#tenders for more information",
+        "Hopefully you're satisfied with the response!"
+      ]
